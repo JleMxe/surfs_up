@@ -10,7 +10,7 @@ Resources
 
 The pertinent statistics for the months in question can be seen in the graphics below.
 
-![June Temps](Pictures/June_Temps.png) ![December Temps](Pictures/December_Temps.png)
+![June Temps](/Pictures/June_Temps.png) ![December Temps](/Pictures/December_Temps.png)
 
 Salient points regarding the statistics:
 
@@ -24,11 +24,11 @@ To summarize, the temperature in Ohau during June and December remains moderate,
 
     -The results of those queries, when plotted, look like the graphs below. They indicate that the bulk of the sample data for both months is predominately above 70°F making most of the month amenable to ice cream as a treat.
 
-![June and Dec Freq Dist Temps](Pictures/June_Dec_Freq_Dist_Temps.png)
+![June and Dec Freq Dist Temps](/Pictures/June_Dec_Freq_Dist_Temps.png)
 
 - The second would be frequency distribution for rain fall also from the most active weather station. 
 
     -The resulting charts below indicate that the bulk of the samples indicate the precipitation is generally very near zero.
 
-![June and Dec Freq Dist Temps](Pictures/June_Dec_Freq_Dist_prcp.png)
+![June and Dec Freq Dist Temps](/Pictures/June_Dec_Freq_Dist_prcp.png)
 
